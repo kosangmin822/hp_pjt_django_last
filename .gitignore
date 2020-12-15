@@ -3,3 +3,4 @@
 *.pyc
 .gitignore
 db.sqlite3
+migrations/
